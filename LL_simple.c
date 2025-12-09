@@ -1,3 +1,5 @@
+// func to create node,insert node in front,node bn 2 node,print node,search node,delete node
+
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -178,4 +180,5 @@ int main() {
     head = NULL;
 
     return 0;
+
 }
