@@ -1,4 +1,7 @@
-// // C Program for Implementation of Singly Linked List
+// C Program for Implementation of Singly Linked List
+// fun to create node,insert at front,end & specific position,delete 1st last & specific node,print
+
+
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -157,4 +160,5 @@ int main() {
     print(head); 
 
     return 0;
+
 }
