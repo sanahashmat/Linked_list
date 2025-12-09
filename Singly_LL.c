@@ -1,3 +1,5 @@
+//func to create  node,insert node at end,display 
+
 #include <stdio.h>
 #include <stdlib.h>
 // Self-referential structure
@@ -52,4 +54,5 @@ head = insertEnd(head, value);
 printf("\nSingly Linked List:\n");
 display(head);
 return 0;
+
 }
